@@ -56,9 +56,4 @@ As a customer, I want to be able to cancel my order if I change my mind or encou
 - Given that I have placed an order, when I view the order details, then I should see an option to cancel the order.
 - When I confirm the cancellation, then the order should be marked as canceled, and the products should be returned to stock.
 
-## User Story 9: Update User Preferences
-As a customer, I want to be able to update my user preferences, such as default location or notification settings, to personalize my shopping experience.
 
-**Acceptance Criteria:**
-- Given that I am logged in as a customer, when I navigate to the "Account Settings" section, then I should be able to update my preferences.
-- When I save the changes, then my preferences should be updated accordingly and reflected in my future interactions with the system.
